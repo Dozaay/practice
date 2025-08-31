@@ -1,6 +1,6 @@
 # Programming language practice
 ## C/C++
-    - Data Structures 
+    - Data Structures (C) 
         - Linked List/Dynamic Array
         - queue/dequeue & stack call center
         - queue from stack implementation 
