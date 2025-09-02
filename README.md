@@ -5,8 +5,7 @@
         - queue/dequeue & stack call center
         - queue from stack implementation 
         - BST
-        - Heap-based Priority Queue
-        - Dijkstra's Algorithm
+        - Dijkstra's Algorithm using Heap-based Priority Queue
         - Hashtable based on Dynamic Array's & Linked Lists
 
 ## Python
